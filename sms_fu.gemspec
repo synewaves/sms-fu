@@ -25,5 +25,5 @@ Gem::Specification.new do |s|
   s.add_dependency(%q<action_mailer>, [">= 3.0.0.rc2"])
   s.add_dependency(%q<pony>, [">= 1.0"])
   s.add_dependency(%q<phony>, [">= 1.8.6"])
-  s.add_development_dependency 'rspec', '~> 2.5'  end
+  s.add_development_dependency 'rspec', '~> 2.5'  
 end
