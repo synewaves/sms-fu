@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = [
     "README.rdoc"
   ]
-  s.files = Dir.glob(“lib/**/*.rb”)
+  s.files = Dir.glob("lib/**/*.rb")
   s.files += ["Rakefile","install.rb", "tasks/sms_fu_tasks.rake", "templates/sms_fu.yml"]
   s.has_rdoc = true
   s.homepage = %q{https://github.com/yacc/sms-fu}
