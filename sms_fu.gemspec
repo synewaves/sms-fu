@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-require 'version'
+require './sms_fu/version'
 
 Gem::Specification.new do |s|
   s.name = %q{sms_fu}
