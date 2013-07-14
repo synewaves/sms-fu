@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.3.1}
   s.summary = %q{sms_fu allows you to send free text messages to a mobile recipient.}
 
-  s.add_dependency(%q<actionmailer>, [">= 3.2.0"])
+  s.add_dependency(%q<actionmailer>, [">= 3.1.0"])
   s.add_dependency(%q<pony>, [">= 1.0"])
   s.add_dependency(%q<phony>, [">= 1.8.6"])
   s.add_development_dependency 'rspec', '~> 2.5'  
